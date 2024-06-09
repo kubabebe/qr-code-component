@@ -1,8 +1,9 @@
 html {
-  background-color: lightgray;
+  background-color: #D5E1EF;
   font-family: "Outfit", sans-serif;
   height: 100%;
 }
+
 body {
   display: flex;
   justify-content: center;
